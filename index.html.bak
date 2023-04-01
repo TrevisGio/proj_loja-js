@@ -59,24 +59,24 @@
 			<h1>HardGym</h1>
 			<div class="row">
 				<div class="float-left m-3 cool-sm-4">
-					<img src="img/cat-flyer.jpg" type="img/jpg" alt="Gato Voador" width="250px" height="170px"/>
+					<img src="img/cat-flyer.jpg" type="img/jpg" alt="Gato Voador" width="200px" height="170px"/>
 				</div>
 				<div class="float-left m-3 cool-sm-4">
-					<img src="img/gato-super-voador.jpg" type="img/jpg" alt="Desenho Gato Voando" width="250px" height="170px"/>
+					<img src="img/gato-super-voador.jpg" type="img/jpg" alt="Desenho Gato Voando" width="200px" height="170px"/>
 				</div>
 				<div class="float-left m-3 cool-sm-4">
-					<img src="img/perdemo.jpg" type="img/jpg" alt="Perdemo" width="250px" height="170px"/>
+					<img src="img/perdemo.jpg" type="img/jpg" alt="Perdemo" width="200px" height="170px"/>
 				</div>
 			</div>
 			<div>
 				<div class="float-left m-3 cool-sm-4">
-					<img src="img/gato-cachorros.jpg" type="img/jpg" alt="Gato e Cachorros" width="250px" height="170px"/>
+					<img src="img/gato-cachorros.jpg" type="img/jpg" alt="Gato e Cachorros" width="200px" height="170px"/>
 				</div>
 				<div class="float-left m-3 cool-sm-4">
-					<img src="img/coruja.jpg" type="img/jpg" alt="Coruja" width="250px" height="170px"/>
+					<img src="img/coruja.jpg" type="img/jpg" alt="Coruja" width="200px" height="170px"/>
 				</div>
 				<div class="float-left m-3 cool-sm-4">
-					<img src="img/dog.jpg" type="img/jpg" alt="Cachorro de Oculos" width="250px" height="170px"/>
+					<img src="img/dog.jpg" type="img/jpg" alt="Cachorro de Oculos" width="200px" height="170px"/>
 				</div>
 			</div>
 		</div>
