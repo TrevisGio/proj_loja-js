@@ -59,24 +59,24 @@
 			<h1>HardGym - Acessórios</h1>
 			<div class="row">
 				<div class="float-left m-3 cool-sm-4">
-					<img src="../img/acessorio/faixa.jpg" type="img/jpg" alt="Faixa" width="250px" height="170px"/>
+					<img src="../img/acessorios/faixa.jpg" type="img/jpg" alt="Faixa" width="250px" height="170px"/>
 				</div>
 				<div class="float-left m-3 cool-sm-4">
-					<img src="../img/acessorio/luva.jpg" type="img/jpg" alt="Luva" width="250px" height="170px"/>
+					<img src="../img/acessorios/luva.jpg" type="img/jpg" alt="Luva" width="250px" height="170px"/>
 				</div>
 				<div class="float-left m-3 cool-sm-4">
-					<img src="../img/acessorio/relogio.jpg" type="img/jpg" alt="Relógio" width="250px" height="170px"/>
+					<img src="../img/acessorios/relogio.jpg" type="img/jpg" alt="Relógio" width="250px" height="170px"/>
 				</div>
 			</div>
 			<div>
 				<div class="float-left m-3 cool-sm-4">
-					<img src="../img/acessorio/bolsa.jpg" type="img/jpg" alt="Bolsa" width="250px" height="170px"/>
+					<img src="../img/acessorios/bolsa.jpg" type="img/jpg" alt="Bolsa" width="250px" height="170px"/>
 				</div>
 				<div class="float-left m-3 cool-sm-4">
-					<img src="../img/acessorio/fone.jpg" type="img/jpg" alt="Fone" width="250px" height="170px"/>
+					<img src="../img/acessorios/fone.jpg" type="img/jpg" alt="Fone" width="250px" height="170px"/>
 				</div>
 				<div class="float-left m-3 cool-sm-4">
-					<img src="../img/acessorio/pochete.jpg" type="img/jpg" alt="Pochete" width="250px" height="170px"/>
+					<img src="../img/acessorios/pochete.jpg" type="img/jpg" alt="Pochete" width="250px" height="170px"/>
 				</div>
 			</div>
 		</div>
