@@ -13,12 +13,12 @@
 				<!--Lista não ordenada-->
 				<ul class="navbar-nav">
 					<!--item da lista-->
-					<li class="nav-item">
+					<li class="nav-item active">
 						<!--Link vazio-->
 						<a class="nav-link" href="../index.html">Home</a>
 					</li>
-					<li class="nav-item active">
-						<a class="nav-link" href="#">Roupas</a>
+					<li class="nav-item">
+						<a class="nav-link" href="roupas.html">Roupas</a>
 					</li>
 					<li class="nav-item">
 						<a class="nav-link" href="calcados.html">Calçados</a>
@@ -40,7 +40,7 @@
 						<!--item da lista-->
 						<li class="nav-item active">
 							<!--Link vazio-->
-							<a class="nav-link" href="novidades.html">Novidades</a>
+							<a class="nav-link" href="#">Novidades</a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link" href="promocoes.html">Promoções</a>
@@ -49,34 +49,34 @@
 							<a class="nav-link" href="mais-vendidos.html">Mais vendidos</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="#">Últimas unidades</a>
+							<a class="nav-link" href="ultimas-unidades.html">Últimas unidades</a>
 						</li>
 					</ul>
 				</div>
 			</nav>
 		</div>
 		<div class="col-sm-9">
-			<h1>HardGym - Roupas</h1>
+			<h1>HardGym - Novidades</h1>
 			<div class="row">
 				<div class="float-left m-3 cool-sm-4">
-					<img src="../img/roupas/shorts.jpg" type="img/jpg" alt="Shorts Masculino" width="250px" height="170px"/>
-				</div>
-				<div class="float-left m-3 cool-sm-4">
 					<img src="../img/roupas/conjunto.jpg" type="img/jpg" alt="Conjunto Masculino" width="250px" height="170px"/>
-				</div>
-				<div class="float-left m-3 cool-sm-4">
-					<img src="../img/roupas/conjunto adidas.jpg" type="img/jpg" alt="Conjunto Adidas Masculino" width="250px" height="170px"/>
-				</div>
-			</div>
-			<div>
-				<div class="float-left m-3 cool-sm-4">
-					<img src="../img/roupas/conjunto azul.jpg" type="img/jpg" alt="Conjunto Azul Feminino" width="250px" height="170px"/>
 				</div>
 				<div class="float-left m-3 cool-sm-4">
 					<img src="../img/roupas/conjunto roxo.jpg" type="img/jpg" alt="Conjunto Roxo Feminino" width="250px" height="170px"/>
 				</div>
 				<div class="float-left m-3 cool-sm-4">
-					<img src="../img/roupas/regata-shorts.jpg" type="img/jpg" alt="Regata e Shorts Feminino" width="250px" height="170px"/>
+					<img src="../img/calcados/Tênis olympikus.jpg" type="img/jpg" alt="Tênis Olympikus" width="250px" height="170px"/>
+				</div>
+			</div>
+			<div>
+				<div class="float-left m-3 cool-sm-4">
+					<img src="../img/calcados/Tênis azul-rosa.jpg" type="img/jpg" alt="Tênis azul e rosa" width="250px" height="170px"/>
+				</div>
+				<div class="float-left m-3 cool-sm-4">
+					<img src="../img/acessorios/conjunto roxo.jpg" type="img/jpg" alt="Tênis azul e rosa" width="250px" height="170px"/>
+				</div>
+				<div class="float-left m-3 cool-sm-4">
+					<img src="../img/acessorios/regata-shorts.jpg" type="img/jpg" alt="Regata e Shorts Feminino" width="250px" height="170px"/>
 				</div>
 			</div>
 		</div>
