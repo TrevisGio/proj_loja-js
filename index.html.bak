@@ -49,7 +49,7 @@
 							<a class="nav-link" href="pages/mais-vendidos.html">Mais vendidos</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="pages/ultimas-unidades.htm">Últimas unidades</a>
+							<a class="nav-link" href="pages/ultimas-unidades.html">Últimas unidades</a>
 						</li>
 					</ul>
 				</div>
@@ -59,18 +59,46 @@
 			<h1>HardGym</h1>
 			<div class="row">
 				<div class="float-left m-4 cool-sm-4">
+				<h3>Conjunto Masculino</h3>
 					<img src="img/roupas/conjunto.jpg" type="img/jpg" alt="Conjunto Masculino" width="250px" height="170px"/>
+					<p>Conjunto confortável masculino</p>
+					<div class="row">
+					<p class="col-sm-5"><b>R$ 210,00</b></p>
+					<p class="col-sm-7">⭐⭐⭐⭐</p>
+				</div>
+				<a class="btn btn-success" href="#">Comprar</a>
 				</div>
 				<div class="float-left m-4 cool-sm-4">
-					<img src="img/roupas/conjunto azul.jpg" type="img/jpg" alt="Conjunto Feminino" width="250px" height="170px"/>
+						<h3>Conjunto Feminino</h3>
+					<img src="img/roupas/conjunto azul.jpg" type="img/jpg" alt="Conjunto Azul Feminino" width="250px" height="170px"/>
+					<p>Conjunto feminino azul para exercícios</p>
+					<div class="row">
+					<p class="col-sm-5"><b>R$ 190,00</b></p>
+					<p class="col-sm-7">⭐⭐⭐⭐</p>
+				</div>
+				<a class="btn btn-success" href="#">Comprar</a>
 				</div>
 				<div class="float-left m-4 cool-sm-4">
+					<h3>Tênis Azul</h3>
 					<img src="img/calcados/Tênis azul.jpg" type="img/jpg" alt="Tênis Azul" width="250px" height="170px"/>
+					<p>Tênis azul para exercícios</p>
+					<div class="row">
+					<p class="col-sm-5"><b>R$ 192,52</b></p>
+					<p class="col-sm-7">⭐⭐⭐</p>
 				</div>
+				<a class="btn btn-success" href="#">Comprar</a>
+			</div>
 			</div>
 			<div>
 				<div class="float-left m-4 cool-sm-4">
+					<h3>Tênis Rosa</h3>
 					<img src="img/calcados/Tênis rosa.jpg" type="img/jpg" alt="Tênis Rosa" width="250px" height="170px"/>
+					<p>Tênis rosa para exercícios</p>
+					<div class="row">
+					<p class="col-sm-5"><b>R$ 191,51</b></p>
+					<p class="col-sm-7">⭐⭐⭐</p>
+				</div>
+				<a class="btn btn-success" href="#">Comprar</a>
 				</div>
 				<div class="float-left m-4 cool-sm-4">
 					<img src="img/acessorios/bolsa.jpg" type="img/jpg" alt="Bolsa" width="250px" height="170px"/>
