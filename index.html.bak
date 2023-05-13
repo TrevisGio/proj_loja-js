@@ -3,7 +3,14 @@
 	<head>
 		<meta charset="utf-8"/>
 		<title>HardGym | Moda para Academia</title>
-		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"> 
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+			<link rel="apple-touch-icon" sizes="180x180" href="img/favicons/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="img/favicons/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="img/favicons/favicon-16x16.png">
+		<link rel="manifest" href="img/favicons/site.webmanifest">
+		<link rel="mask-icon" href="img/favicons/safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="msapplication-TileColor" content="#603cba">
+		<meta name="theme-color" content="#ffffff">
 	</head>
 	<body>
 		<!--Tag de navegação-->
@@ -101,10 +108,24 @@
 				<a class="btn btn-success" href="#">Comprar</a>
 				</div>
 				<div class="float-left m-4 cool-sm-4">
+					<h3>Bolsa Saco</h3>
 					<img src="img/acessorios/bolsa.jpg" type="img/jpg" alt="Bolsa" width="250px" height="170px"/>
+					<p>Bolsa saco preta</p>
+					<div class="row">
+					<p class="col-sm-5"><b>R$ 43,00</b></p>
+					<p class="col-sm-7">⭐⭐⭐</p>
+				</div>
+					<a class="btn btn-success" href="#">Comprar</a>
 				</div>
 				<div class="float-left m-4 cool-sm-4">
+					<h3>Luva Starflex </h3>
 					<img src="img/acessorios/luva.jpg" type="img/jpg" alt="Luva" width="250px" height="170px"/>
+					<p>Luva starflex</p>
+					<div class="row">
+					<p class="col-sm-5"><b>R$ 169,00</b></p>
+					<p class="col-sm-7">⭐⭐⭐⭐⭐</p>
+				</div>
+				<a class="btn btn-success" href="#">Comprar</a>
 				</div>
 			</div>
 		</div>

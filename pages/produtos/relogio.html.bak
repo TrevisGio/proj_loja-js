@@ -4,13 +4,6 @@
 		<meta charset="utf-8"/>
 		<title>HardGym | Moda para Academia</title>
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"> 
-		<link rel="apple-touch-icon" sizes="180x180" href="../../img/favicons/apple-touch-icon.png">
-		<link rel="icon" type="image/png" sizes="32x32" href="../../img/favicons/favicon-32x32.png">
-		<link rel="icon" type="image/png" sizes="16x16" href="../../img/favicons/favicon-16x16.png">
-		<link rel="manifest" href="../../img/favicons/site.webmanifest">
-		<link rel="mask-icon" href="../../img/favicons/safari-pinned-tab.svg" color="#5bbad5">
-		<meta name="msapplication-TileColor" content="#da532c">
-		<meta name="theme-color" content="#ffffff">
 	</head>
 	<body>
 		<!--Tag de navegação-->
@@ -27,10 +20,10 @@
 					<li class="nav-item">
 						<a class="nav-link" href="../roupas.html">Roupas</a>
 					</li>
-					<li class="nav-item active">
+					<li class="nav-item">
 						<a class="nav-link" href="../calcados.html">Calçados</a>
 					</li>
-					<li class="nav-item">
+					<li class="nav-item active">
 						<a class="nav-link" href="../acessorios.html">Acessórios</a>
 					</li>
 				</ul>
@@ -63,15 +56,15 @@
 			</nav>
 		</div>
 		<div class="col-sm-9">
-			<h1>HardGym - Calçados - Tênis Fashion</h1>
+			<h1>HardGym - Acessórios - Relógio Digital</h1>
 			<div class="row">
 				<div class="float-left m-6 cool-sm-4">
-				<h3>Tênis Fashion</h3>
-					<img src="../../img/calcados/Tênis fashion.jpg" type="img/jpg" alt="Tênis Fashion" width="alto" height="400px"/>
-					<p>Tênis para exercícios</p>
+				<h3>Relógio Digital</h3>
+					<img src="../../img/acessorios/relogio.jpg" type="img/jpg" alt="Relógio" width="alto" height="400px"/>
+					<p>Relógio digital</p>
 					<div class="row">
-					<p class="col-sm-5"><b>R$ 205,90</b></p>
-					<p class="col-sm-7">⭐⭐⭐</p>
+					<p class="col-sm-5"><b>R$ 769,00</b></p>
+					<p class="col-sm-7">⭐⭐⭐⭐</p>
 				</div>
 				<a class="btn btn-success" href="#">Comprar</a>
 			</div>
