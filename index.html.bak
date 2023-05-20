@@ -9,7 +9,7 @@
 		<link rel="icon" type="image/png" sizes="16x16" href="img/favicons/favicon-16x16.png">
 		<link rel="manifest" href="img/favicons/site.webmanifest">
 		<link rel="mask-icon" href="img/favicons/safari-pinned-tab.svg" color="#5bbad5">
-		<meta name="msapplication-TileColor" content="#603cba">
+		<meta name="msapplication-TileColor" content="#da532c">
 		<meta name="theme-color" content="#ffffff">
 	</head>
 	<body>
@@ -67,55 +67,55 @@
 			<div class="row">
 				<div class="float-left m-4 cool-sm-4">
 				<h3>Conjunto Masculino</h3>
-					<img src="img/roupas/conjunto.jpg" type="img/jpg" alt="Conjunto Masculino" width="250px" height="170px"/>
+					<a href="pages/produtos/conjunto-masculino.html"><img src="img/roupas/conjunto.jpg" type="img/jpg" alt="Conjunto Masculino" width="250px" height="170px"/></a>
 					<p>Conjunto confortável masculino</p>
 					<div class="row">
 					<p class="col-sm-5"><b>R$ 210,00</b></p>
 					<p class="col-sm-7">⭐⭐⭐⭐</p>
 				</div>
-				<a class="btn btn-success" href="#">Comprar</a>
+				<a class="btn btn-success" href="pages/produtos/conjunto-masculino.html">Comprar</a>
 				</div>
 				<div class="float-left m-4 cool-sm-4">
-						<h3>Conjunto Feminino</h3>
-					<img src="img/roupas/conjunto azul.jpg" type="img/jpg" alt="Conjunto Azul Feminino" width="250px" height="170px"/>
+					<h3>Conjunto Feminino</h3>
+					<a href="pages/produtos/conjunto-feminino.html"><img src="img/roupas/conjunto azul.jpg" type="img/jpg" alt="Conjunto Azul Feminino" width="250px" height="170px"/></a>
 					<p>Conjunto feminino azul para exercícios</p>
 					<div class="row">
 					<p class="col-sm-5"><b>R$ 190,00</b></p>
 					<p class="col-sm-7">⭐⭐⭐⭐</p>
 				</div>
-				<a class="btn btn-success" href="#">Comprar</a>
+				<a class="btn btn-success" href="pages/produtos/conjunto-feminino.html">Comprar</a>
 				</div>
 				<div class="float-left m-4 cool-sm-4">
 					<h3>Tênis Azul</h3>
-					<img src="img/calcados/Tênis azul.jpg" type="img/jpg" alt="Tênis Azul" width="250px" height="170px"/>
+					<a href="pages/produtos/tenis-azul.html"><img src="img/calcados/Tênis azul.jpg" type="img/jpg" alt="Tênis Azul" width="250px" height="170px"/></a>
 					<p>Tênis azul para exercícios</p>
 					<div class="row">
 					<p class="col-sm-5"><b>R$ 192,52</b></p>
 					<p class="col-sm-7">⭐⭐⭐</p>
 				</div>
-				<a class="btn btn-success" href="#">Comprar</a>
+				<a class="btn btn-success" href="pages/produtos/tenis-azul.html">Comprar</a>
 			</div>
 			</div>
 			<div>
 				<div class="float-left m-4 cool-sm-4">
 					<h3>Tênis Rosa</h3>
-					<img src="img/calcados/Tênis rosa.jpg" type="img/jpg" alt="Tênis Rosa" width="250px" height="170px"/>
+					<a href="pages/produtos/tenis-rosa.html"><img src="img/calcados/Tênis rosa.jpg" type="img/jpg" alt="Tênis Rosa" width="250px" height="170px"/></a>
 					<p>Tênis rosa para exercícios</p>
 					<div class="row">
 					<p class="col-sm-5"><b>R$ 191,51</b></p>
 					<p class="col-sm-7">⭐⭐⭐</p>
 				</div>
-				<a class="btn btn-success" href="#">Comprar</a>
+				<a class="btn btn-success" href="pages/ produtos/tenis-rosa.html">Comprar</a>
 				</div>
 				<div class="float-left m-4 cool-sm-4">
 					<h3>Bolsa Saco</h3>
-					<img src="img/acessorios/bolsa.jpg" type="img/jpg" alt="Bolsa" width="250px" height="170px"/>
+					<a href="pages/produtos/bolsa.html"><img src="img/acessorios/bolsa.jpg" type="img/jpg" alt="Bolsa" width="250px" height="170px"/></a>
 					<p>Bolsa saco preta</p>
 					<div class="row">
 					<p class="col-sm-5"><b>R$ 43,00</b></p>
 					<p class="col-sm-7">⭐⭐⭐</p>
 				</div>
-					<a class="btn btn-success" href="#">Comprar</a>
+					<a class="btn btn-success" href="pages/produtos/bolsa.html">Comprar</a>
 				</div>
 				<div class="float-left m-4 cool-sm-4">
 					<h3>Luva Starflex </h3>
